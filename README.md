@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tailspin13377331/Spacegame%20-pipeline/_apis/build/status/p3t3rix.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin13377331/Spacegame%20-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
